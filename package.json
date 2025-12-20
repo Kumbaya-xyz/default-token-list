@@ -1,15 +1,24 @@
 {
   "name": "@kumbaya_xyz/default-token-list",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The Kumbaya default token list",
-  "main": "build/kumbaya-default.tokenlist.json",
+  "type": "module",
+  "main": "build/index.js",
+  "exports": {
+    ".": {
+      "import": "./build/index.js",
+      "require": "./build/kumbaya-default.tokenlist.json"
+    },
+    "./tokenlist.json": "./build/kumbaya-default.tokenlist.json"
+  },
   "scripts": {
-    "test": "mocha",
-    "build": "rimraf build && mkdir -p build && node src/write.js > build/kumbaya-default.tokenlist.json",
+    "test": "mocha 'test/**/*.cjs'",
+    "build": "rimraf build && mkdir -p build && node src/write.cjs > build/kumbaya-default.tokenlist.json && echo 'import tokenList from \"./kumbaya-default.tokenlist.json\" with { type: \"json\" };\\nexport default tokenList;' > build/index.js",
     "prepublishOnly": "npm test && npm run build"
   },
   "files": [
-    "build/kumbaya-default.tokenlist.json"
+    "build/kumbaya-default.tokenlist.json",
+    "build/index.js"
   ],
   "publishConfig": {
     "access": "public"

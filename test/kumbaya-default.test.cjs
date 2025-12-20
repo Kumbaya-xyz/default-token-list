@@ -5,7 +5,7 @@ const { getAddress } = require('@ethersproject/address');
 // bs58 v6 uses ES modules, so we need to access the default export
 const bs58 = require('bs58').default;
 const Ajv = require('ajv');
-const buildList = require('../src/buildList');
+const buildList = require('../src/buildList.cjs');
 
 const ajv = new Ajv({ allErrors: true, format: 'full' });
 const validator = ajv.compile(schema);
