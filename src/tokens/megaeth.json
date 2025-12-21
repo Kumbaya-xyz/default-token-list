@@ -19,6 +19,7 @@
     "address": "0x021ee124cF23D302A7f725AE7a01B77A8ce9782B",
     "name": "Duck Token",
     "symbol": "DUCK",
-    "decimals": 18
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/Kumbaya-xyz/default-token-list/refs/heads/main/src/assets/4326/0x021ee124cF23D302A7f725AE7a01B77A8ce9782B.png"
   }
 ]
