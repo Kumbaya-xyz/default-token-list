@@ -10,14 +10,14 @@
   {
     "chainId": 4326,
     "address": "0x28B7E77f82B25B95953825F1E3eA0E36c1c29861",
-    "name": "Mega",
-    "symbol": "MX",
+    "name": "MEGA",
+    "symbol": "MEGA",
     "decimals": 18
   },
   {
     "chainId": 4326,
     "address": "0x021ee124cF23D302A7f725AE7a01B77A8ce9782B",
-    "name": "Duck Token",
+    "name": "Duck",
     "symbol": "DUCK",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/Kumbaya-xyz/default-token-list/refs/heads/main/src/assets/4326/0x021ee124cF23D302A7f725AE7a01B77A8ce9782B.png"

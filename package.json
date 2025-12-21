@@ -1,6 +1,6 @@
 {
   "name": "@kumbaya_xyz/default-token-list",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "The Kumbaya default token list",
   "type": "module",
   "main": "build/index.js",
@@ -28,7 +28,7 @@
     "url": "git+https://github.com/kumbaya_xyz/default-token-list.git"
   },
   "keywords": [
-    "uniswap",
+    "kumbaya",
     "default",
     "token",
     "list"
