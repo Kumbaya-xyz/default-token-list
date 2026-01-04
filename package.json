@@ -1,6 +1,6 @@
 {
   "name": "@kumbaya_xyz/default-token-list",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "The Kumbaya default token list",
   "type": "module",
   "main": "build/index.js",
