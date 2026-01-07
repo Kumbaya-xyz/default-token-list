@@ -22,5 +22,13 @@
     "symbol": "DUCK",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/Kumbaya-xyz/default-token-list/refs/heads/main/src/assets/4326/0x021ee124cF23D302A7f725AE7a01B77A8ce9782B.png"
+  },
+  {
+    "chainId": 4326,
+    "address": "0x601aC63637933D88285A025C685AC4e9a92a98dA",
+    "name": "Wrapped liquid staked Ether 2.0",
+    "symbol": "wstETH",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/Kumbaya-xyz/default-token-list/refs/heads/main/src/assets/4326/0x601aC63637933D88285A025C685AC4e9a92a98dA.png"
   }
 ]
