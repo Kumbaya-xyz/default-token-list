@@ -30,5 +30,21 @@
     "symbol": "wstETH",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/Kumbaya-xyz/default-token-list/refs/heads/main/src/assets/4326/0x601aC63637933D88285A025C685AC4e9a92a98dA.png"
+  },
+  {
+    "chainId": 4326,
+    "address": "0xFAfDdbb3FC7688494971a79cc65DCa3EF82079E7",
+    "name": "MegaUSD",
+    "symbol": "USDm",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/Kumbaya-xyz/default-token-list/refs/heads/main/src/assets/4326/0xFAfDdbb3FC7688494971a79cc65DCa3EF82079E7.png"
+  },
+  {
+    "chainId": 4326,
+    "address": "0xcCcc62962d17b8914c62D74FfB843d73B2a3cccC",
+    "name": "Cap USD",
+    "symbol": "cUSD",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/Kumbaya-xyz/default-token-list/refs/heads/main/src/assets/4326/0xcCcc62962d17b8914c62D74FfB843d73B2a3cccC.png"
   }
 ]
