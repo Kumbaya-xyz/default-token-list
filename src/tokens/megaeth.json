@@ -46,5 +46,29 @@
     "symbol": "cUSD",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/Kumbaya-xyz/default-token-list/refs/heads/main/src/assets/4326/0xcCcc62962d17b8914c62D74FfB843d73B2a3cccC.png"
+  },
+  {
+    "chainId": 4326,
+    "address": "0xB0F70C0bD6FD87dbEb7C10dC692a2a6106817072",
+    "name": "Bitcoin",
+    "symbol": "BTC.b",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/Kumbaya-xyz/default-token-list/refs/heads/main/src/assets/4326/0xB0F70C0bD6FD87dbEb7C10dC692a2a6106817072.png"
+  },
+  {
+    "chainId": 4326,
+    "address": "0x88887bE419578051FF9F4eb6C858A951921D8888",
+    "name": "Staked Cap USD",
+    "symbol": "stcUSD",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/Kumbaya-xyz/default-token-list/refs/heads/main/src/assets/4326/0x88887bE419578051FF9F4eb6C858A951921D8888.png"
+  },
+  {
+    "chainId": 4326,
+    "address": "0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb",
+    "name": "USDT0",
+    "symbol": "USDT0",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/Kumbaya-xyz/default-token-list/refs/heads/main/src/assets/4326/0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb.png"
   }
 ]
