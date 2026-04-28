@@ -25,6 +25,14 @@
   },
   {
     "chainId": 4326,
+    "address": "0x28B7E77f82B25B95953825F1E3eA0E36c1c29861",
+    "name": "MEGA",
+    "symbol": "MEGA",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/Kumbaya-xyz/default-token-list/refs/heads/main/src/assets/4326/0x28B7E77f82B25B95953825F1E3eA0E36c1c29861.png"
+  },
+  {
+    "chainId": 4326,
     "address": "0xFAfDdbb3FC7688494971a79cc65DCa3EF82079E7",
     "name": "MegaUSD",
     "symbol": "USDm",
