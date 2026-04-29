@@ -118,5 +118,13 @@
     "symbol": "USDe",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/Kumbaya-xyz/default-token-list/refs/heads/main/src/assets/4326/0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34.png"
+  },
+  {
+    "chainId": 4326,
+    "address": "0xC2f34f8849a8607FD73E06D6849bDA07C2b7DE38",
+    "name": "Dirty Money",
+    "symbol": "DIRTY",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/Kumbaya-xyz/default-token-list/refs/heads/main/src/assets/4326/0xC2f34f8849a8607FD73E06D6849bDA07C2b7DE38.png"
   }
 ]
