@@ -118,5 +118,13 @@
     "symbol": "USDe",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/Kumbaya-xyz/default-token-list/refs/heads/main/src/assets/4326/0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34.png"
+  },
+  {
+    "chainId": 4326,
+    "address": "0xfBAa45A537cF07dC768c469FfaC4e88208B0098D",
+    "name": "CL8Y.com",
+    "symbol": "CL8Y",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/Kumbaya-xyz/default-token-list/refs/heads/main/src/assets/4326/0xfBAa45A537cF07dC768c469FfaC4e88208B0098D.png"
   }
 ]
