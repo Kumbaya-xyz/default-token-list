@@ -134,5 +134,13 @@
     "symbol": "DIRTY",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/Kumbaya-xyz/default-token-list/refs/heads/main/src/assets/4326/0xC2f34f8849a8607FD73E06D6849bDA07C2b7DE38.png"
+  },
+  {
+    "chainId": 4326,
+    "address": "0xfBAa45A537cF07dC768c469FfaC4e88208B0098D",
+    "name": "CL8Y.com",
+    "symbol": "CL8Y",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/Kumbaya-xyz/default-token-list/refs/heads/main/src/assets/4326/0xfBAa45A537cF07dC768c469FfaC4e88208B0098D.png"
   }
 ]
