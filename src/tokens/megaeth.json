@@ -121,6 +121,22 @@
   },
   {
     "chainId": 4326,
+    "address": "0x8F77A685bDe702E6d32A103e9AeB41906317D7e5",
+    "name": "Reserve Backed Token",
+    "symbol": "RBT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/Kumbaya-xyz/default-token-list/refs/heads/main/src/assets/4326/0x8F77A685bDe702E6d32A103e9AeB41906317D7e5.png"
+  },
+  {
+    "chainId": 4326,
+    "address": "0xC2f34f8849a8607FD73E06D6849bDA07C2b7DE38",
+    "name": "Dirty Money",
+    "symbol": "DIRTY",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/Kumbaya-xyz/default-token-list/refs/heads/main/src/assets/4326/0xC2f34f8849a8607FD73E06D6849bDA07C2b7DE38.png"
+  },
+  {
+    "chainId": 4326,
     "address": "0xfBAa45A537cF07dC768c469FfaC4e88208B0098D",
     "name": "CL8Y.com",
     "symbol": "CL8Y",
