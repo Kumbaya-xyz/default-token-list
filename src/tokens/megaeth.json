@@ -142,5 +142,13 @@
     "symbol": "CL8Y",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/Kumbaya-xyz/default-token-list/refs/heads/main/src/assets/4326/0xfBAa45A537cF07dC768c469FfaC4e88208B0098D.png"
+  },
+  {
+    "chainId": 4326,
+    "address": "0xc3654B4f879937B767aFBB64B7C230FF436d2342",
+    "name": "Doubloon",
+    "symbol": "DOUB",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/Kumbaya-xyz/default-token-list/refs/heads/main/src/assets/4326/0xc3654B4f879937B767aFBB64B7C230FF436d2342.png"
   }
 ]
