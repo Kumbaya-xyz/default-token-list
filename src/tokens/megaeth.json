@@ -142,5 +142,13 @@
     "symbol": "CL8Y",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/Kumbaya-xyz/default-token-list/refs/heads/main/src/assets/4326/0xfBAa45A537cF07dC768c469FfaC4e88208B0098D.png"
+  },
+  {
+    "chainId": 4326,
+    "address": "0x6691D67Ece85Ed950244c2CB5848d6498134321f",
+    "name": "Dirty Cash",
+    "symbol": "DCASH",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/Kumbaya-xyz/default-token-list/refs/heads/main/src/assets/4326/0x6691D67Ece85Ed950244c2CB5848d6498134321f.png"
   }
 ]
